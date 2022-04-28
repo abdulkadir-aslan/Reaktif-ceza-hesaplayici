@@ -1,8 +1,8 @@
-# Reaktif Arıza Hesaplama Makinası
+# Reaktif Ceza Hesaplama Makinası
 
 ![](/logo.png)
 
-Reaktif arıza hesaplama aracı
+Reaktif Ceza hesaplama aracı
 
 ![](/img/main_screen.JPG)
 
